@@ -1,0 +1,39 @@
+@charset "utf-8";
+main{
+  max-width:950px;
+  margin:0 auto;
+  text-align:center;
+}
+section{
+  margin:80px  auto 32px;
+  color:red;
+  border:thick double red;
+  text-align:center;
+   width:400px;
+  
+}
+h1{
+ padding:10px;
+ font-size:2.0rem;
+ font-weight: normal;
+}
+section p{
+  padding:40px;
+  
+  border-top:solid red;
+ font-size: 4.0rem;
+ font-weight:bold;
+}
+button{
+ 
+  width:400px;
+  height:60px;
+  background-color:red;
+  color:white;
+  border-radius:8px;
+  box-shadow: 0 5px 0 0 #2f5d08;
+  font-size:1.3rem;
+}
+button:hover{
+  opacity: .7;
+}
